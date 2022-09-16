@@ -6,7 +6,7 @@ de props pour envoyé des informations au components.
 
 # Instructions
 
-Créé votre application avec `create-react-app` et ajoutez le fichier quotes.json fourni dans le dossier `src`.
+Créé votre application avec `vite` ou `create-react-app` et ajoutez le fichier quotes.json fourni dans le dossier `src`.
 
 # But
 Vous devez créé une application qui va afficher
