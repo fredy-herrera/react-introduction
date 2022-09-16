@@ -17,7 +17,9 @@ liste de citation fourni.
 Le dossier présent à été créé avec create-react-app avec quelques
 modification :
 * Ajout d'un fichier quotes.json contenant les citations.
-    * Vous pouvez utiliser le fichier avec l'instruction `const quotes = require('./quotes.json')`.
+    * Vous pouvez utiliser le fichier avec une des instruction suivantes :
+      * `import quotes from './quotes.json'` (pour un projet avec module comme Vite)
+      * `const quotes = require('./quotes.json')` (pour un projet purement node comme create-react-app)
 
 
 # Exemple du projet terminer
